@@ -1,0 +1,194 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'News Cycle', sans-serif;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #0a0d71;
+    width: auto;   
+}
+nav ul{
+    list-style: none;
+    background-color: #d7973c;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    
+}
+nav li{
+    display: inline-block;
+    font-size: 1.5em;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 5px;
+    margin-right: 100px;
+}
+nav a:hover{
+    background-color: #a8aabe    
+}
+
+.box{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+.section-1{
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(images/road.jpg);
+}
+
+hgroup{
+    font-family: 'News Cycle', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    font-size: 5.5em;
+    margin-left: 23%;
+    position: relative;
+    color: #d7973c;
+    top: 50%;
+    transform: translateY(-50%)
+}
+h2, h3, h4, h5, h6{
+    font-family: 'Righteous', cursive;
+    font-size: 3em;
+    margin: 50px;
+    
+}
+.section-2{
+    height: 100%;
+    padding: 100px;
+
+}
+.profile{
+    width: 812px;
+    height: 1030px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 4%
+}
+.container-1{
+     width: 712px;
+    height: 100%;
+    float: right;
+    margin-right: 20%;
+}
+.rounded-corners{
+    border-radius: 25px;
+    width: 700px;
+    height: 370px;
+}
+.two{
+    height: 490px;
+    
+}
+p1{
+    font-family: 'Righteous', cursive;
+    font-size: 2em;
+    margin: 20px;
+    margin-bottom: 40px;
+    
+}
+
+h3, h4, h5{
+    color: #d7973c;
+}
+
+.section-3{
+    background-image: url(images/Flag-map_of_Jamaica.svg.png);
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.container-2{
+    max-width: 2500px;
+    margin: auto;
+    text-align: center;
+}
+
+.oval-image{
+    height: 450px;
+    width: 300px;
+    border-top-width;
+    border-radius: 50%;
+}
+.first, .second, .fourth, .fifth {
+    margin: 25px;
+    margin-bottom: 100px;
+}
+.third{
+    height: 420px;
+    width: 650px;
+    border-radius: 50%;
+    margin-top: inherit;
+    margin-bottom: 20px;
+
+}
+.section-4{
+    margin-top: 0px;
+    padding-top: 20px;
+    background-color: rgba(10,13,113,0.7);
+    text-align: center;    
+}
+
+.queens{
+    width: 700px;
+    padding-top: 80px;
+    padding-bottom: 50px;    
+}
+.car-1, .car-2, .car-3{
+    margin-top:20px; 
+    width: 1250px;
+    height: 200px;
+}
+
+.car-3{
+    margin-bottom: 50px;
+}
+
+.brand-1{
+    margin: 20px;
+    width: 240px;
+    height: 240px;
+    margin-bottom: 40px;
+}
+
+.brand-2{
+    width: 300px;
+    height: 100px;
+    margin-bottom: 85px;
+    
+}
+.section-5{
+    padding: 10px;
+    background-color: #d7973c;
+    text-align: center;
+}
+
+.tv-1, .tv-2{
+    width: 310px;
+    margin: 20px;
+  
+}
+.friend2, .family_1, .friends1{
+    width: 600px;
+    height: 620px;
+    padding: 20px    
+}
+span{
+    font-size: 1.8em;
+}
