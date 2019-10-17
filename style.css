@@ -1,0 +1,214 @@
+/*modular scale
+h1 {
+  font-size: 3.052em;
+}
+
+h2 {
+    font-size: 2.441em;
+}
+
+h3 {
+    font-size: 1.953em;
+}
+
+h4 {
+    font-size: 1.563em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6{
+    font-size: 1.0em;
+}
+small, .text_small {font-size: 0.8em;}
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #0a0d71;
+    width: auto;   
+}
+nav ul{
+    list-style: none;
+    background-color: #d7973c;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    
+}
+nav li{
+    display: inline-block;
+    font-size: 1.1em;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 5px;
+    margin-right: 100px;
+}
+nav a:hover{
+    background-color: #a8aabe    
+}
+
+.box{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+.section-1{
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(images/road.jpg);
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    font-size: 3.3em;
+    margin-left: 49%;
+    position: relative;
+    color: #d7973c;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+.section-2{
+    background-image: url(images/kirk2.jpg);
+    background-size: cover;
+    height: 180vh;
+    background-repeat: no-repeat;
+}
+.profile{
+    border-radius: 50%;
+    float: right;
+    height: 450px;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+h2{
+    font-family: 'Righteous', cursive;
+    font-size: 2em;
+    margin-top: 480px;
+    margin-left: 910px;
+    
+}
+h3, h4, h5, h6{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 2em;
+    margin: 50px;
+    
+}
+span{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.section-3{
+    background-image: url(images/Flag-map_of_Jamaica.svg.png);
+    background-attachment: scroll; 
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 50px;
+}
+h3{
+    margin-top: 160px;
+}
+img.coat{
+    float: left;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+span.coat{
+    margin-right: 50px;
+     margin-top: 500px;
+}
+.section-4{
+    padding: 75px;
+    background-image: url(images/tire%20track.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: -10px;
+}
+
+h4, h5{
+    color: #d7973c;
+}
+
+.section-5{
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 100%;
+    background-color: rgba(10,13,113,0.7);
+    text-align: center; 
+}
+
+.queens{
+    border-radius: 25px;
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.car-1, .car-2, .car-3{
+    margin-top:20px; 
+    width: 960px;
+    height: 180px;
+}
+figure{
+    padding-bottom: 20px;
+}
+figcaption{
+    color: #d7973c;
+    font-size: 1.1em;
+    font-weight: 600;   
+}
+
+
+.brand-1{
+    margin: 20px;
+    width: 240px;
+    height: 240px;
+    margin-bottom: 40px;
+}
+
+.brand-2{
+    width: 300px;
+    height: 100px;
+    margin-bottom: 85px;
+    
+}
+.section-6{
+    padding: 10px;
+    background-color: #d7973c;
+    text-align: center;
+}
+
+.tv-1, .tv-2{
+    width: 250px;
+    margin: 20px;
+  
+}
+.friend2, .family_1, .friends1{
+    width: 400px;
+    height: 420px;
+    padding: 20px    
+}
+footer{
+    text-align: center;
+    background-color: rgba(10,13,113,.4);
+    margin-top: 0px; 
+}
