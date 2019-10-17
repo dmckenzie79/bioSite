@@ -137,6 +137,8 @@ img.coat{
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 50px;
+    max-width: 100%;
+    height: auto;
 }
 
 span.coat{
@@ -176,18 +178,22 @@ h4, h5{
 
 .queens{
     border-radius: 25px;
-    width: 500px;
     margin-top: 30px;
     margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
 }
+
 .car-1, .car-2, .car-3{
     margin-top:20px; 
-    width: 960px;
-    height: 180px;
+    max-width: 100%;
+    height: auto;
 }
+
 figure{
     padding-bottom: 20px;
 }
+
 figcaption{
     color: #d7973c;
     font-size: 1.1em;
@@ -197,14 +203,14 @@ figcaption{
 
 .brand-1{
     margin: 20px;
-    width: 240px;
-    height: 240px;
+    max-width: 100%;
+    height: auto;
     margin-bottom: 40px;
 }
 
 .brand-2{
-    width: 300px;
-    height: 100px;
+    max-width: 100%;
+    height: auto;
     margin-bottom: 85px;
     
 }
@@ -216,13 +222,14 @@ figcaption{
 }
 
 .tv-1, .tv-2{
-    width: 250px;
+    max-width: 100%;
+    height: auto;
     margin: 20px;
   
 }
 .friend2, .family_1, .friends1{
-    width: 400px;
-    height: 420px;
+    max-width: 100%;
+    height: auto;
     padding: 20px    
 }
 footer{
