@@ -75,7 +75,7 @@ nav a:hover{
 
 h1{
     font-family: 'Righteous', cursive;
-    font-size: 3.45em;
+    font-size: 3.5em;
     margin-left: 48%;
     position: relative;
     color: #d7973c;
@@ -100,7 +100,7 @@ h2{
     font-family: 'Righteous', cursive;
     font-size: 2em;
     margin-top: 480px;
-    margin-left: 910px;
+    margin-left: 950px;
     
 }
 h3, h4, h5, h6{
@@ -122,18 +122,27 @@ span{
     background-position: top;
     margin-top: 50px;
 }
+
 h3{
     margin-top: 160px;
 }
+
 img.coat{
     float: left;
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 50px;
 }
+
 span.coat{
     margin-right: 50px;
      margin-top: 500px;
+}
+
+ol{
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5em;
 }
 .section-4{
     padding: 75px;
