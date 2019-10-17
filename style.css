@@ -67,12 +67,11 @@ nav a:hover{
     display: inline-block;
 }
 .section-1{
+    background-image: url(images/road.jpg);  
+    background-size: cover;
+    background-attachment: fixed;
     height: 100vh;
     width: 100%;
-    background-attachment: fixed;
-    background-size: cover;
-    background-image: url(images/road.jpg);
-  
 }
 
 h1{
