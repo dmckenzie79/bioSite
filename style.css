@@ -140,6 +140,7 @@ span.coat{
 }
 
 ol{
+    text-decoration: none;
     display: inline-block;
     text-align: center;
     font-size: 1.5em;
