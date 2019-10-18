@@ -55,7 +55,8 @@ nav a{
     text-transform: uppercase;
     display: block;
     padding: 5px;
-    margin-right: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 nav a:hover{
     background-color: #a8aabe    
@@ -95,16 +96,17 @@ h1{
 .profile{
     border-radius: 50%;
     float: right;
-    height: 450px;
     margin-top: 30px;
     margin-right: 100px;
+    width: 350px;
+    height: 450px;
 }
 
 h2{
     font-family: 'Righteous', cursive;
     font-size: 2em;
     margin-top: 480px;
-    margin-left: 950px;
+    margin-left: 910px;
     
 }
 h3, h4, h5, h6{
