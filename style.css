@@ -258,12 +258,7 @@ footer{
 
 #mybutton{
     border-color: #fff;
-    background-color: rgba(10, 13, 113, 0.2);
+    background-color: rgba(215, 151, 60, 0.8);
     padding: .5px;
     border-radius: 4px;
 }
-
-a.top{
-    text-color: #fff;
-}
-    
