@@ -255,3 +255,10 @@ footer{
     background-color: rgba(10,13,113,.4);
     margin-top: 0px; 
 }
+
+#mybutton{
+    border-color: #fff;
+    background-color: rgba(10, 13, 113, 0.7);
+    padding: .5px;
+    border-radius: 4px;
+}
