@@ -212,7 +212,7 @@ figcaption{
     margin-bottom: 40px;
     border: 2px solid #d3d3d3;
     border-radius: 50%;
-    padding: 5px;
+    padding: 3px;
 }
 
 img.brand-1:hover {
@@ -225,7 +225,7 @@ img.brand-1:hover {
     margin-bottom: 85px;
     border: 2px solid #d3d3d3;
     border-radius: 4px;
-    padding: 5px;    
+    padding: 3px;    
 }
 
 img.brand-2:hover {
@@ -258,7 +258,12 @@ footer{
 
 #mybutton{
     border-color: #fff;
-    background-color: rgba(10, 13, 113, 0.2);
+    background-color: rgba(10, 13, 113, 0.6);
     padding: .5px;
     border-radius: 4px;
 }
+
+a.top{
+    color: #fff;
+}
+    
