@@ -141,6 +141,8 @@ img.coat{
     margin-bottom: 50px;
     max-width: 100%;
     height: auto;
+    border: 3px solid #ddd;
+    padding: 5px;
 }
 
 span.coat{
@@ -208,7 +210,7 @@ figcaption{
     max-width: 100%;
     height: auto;
     margin-bottom: 40px;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     padding: 5px;
 }
 
@@ -220,7 +222,7 @@ img.brand-1:hover {
     max-width: 100%;
     height: auto;
     margin-bottom: 85px;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     padding: 5px;    
 }
 
