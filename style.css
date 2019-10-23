@@ -213,10 +213,7 @@ figcaption{
     border: 2px solid #d3d3d3;
     border-radius: 50%;
     padding: 3px;
-}
-
-img.brand-1:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    box-shadow: 10px 10px 5px #ddd;
 }
 
 .brand-2{
@@ -225,11 +222,8 @@ img.brand-1:hover {
     margin-bottom: 85px;
     border: 2px solid #d3d3d3;
     border-radius: 4px;
-    padding: 3px;    
-}
-
-img.brand-2:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    padding: 3px;  
+    box-shadow: 10px 10px 5px #ddd;
 }
 
 .section-6{
@@ -264,12 +258,12 @@ footer{
 
 #mybutton{
     border-color: #fff;
-    background-color: rgba(10, 13, 113, 0.6);
+    background-color: rgba(10, 13, 113, 0.2);
     padding: .5px;
     border-radius: 4px;
 }
 
 a.top{
-    color: #fff;
+    text-color: #fff;
 }
     
