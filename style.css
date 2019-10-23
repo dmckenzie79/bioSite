@@ -245,11 +245,17 @@ img.brand-2:hover {
     margin: 20px;
   
 }
+
 .friend2, .family_1, .friends1{
     max-width: 100%;
     height: auto;
     padding: 20px    
 }
+
+.friend2,.friends1{
+    margin-bottom: 10px;
+}
+
 footer{
     text-align: center;
     background-color: rgba(10,13,113,.4);
