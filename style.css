@@ -147,7 +147,7 @@ img.coat{
 
 span.coat{
     margin-right: 50px;
-     margin-top: 650px;
+     margin-top: 900px;
 }
 
 ol{
@@ -159,6 +159,7 @@ ol{
     float: left;
     margin: 50px 0px 30px 150px;
     border: 2px solid;
+    padding: 20px;
 }
 
 .section-4{
