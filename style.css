@@ -78,7 +78,7 @@ nav a:hover{
 h1{
     font-family: 'Righteous', cursive;
     font-size: 3.5em;
-    margin-left: 48%;
+    margin-left: 45%;
     position: relative;
     color: #d7973c;
     top: 50%;
@@ -156,7 +156,9 @@ ol{
     display: inline-block;
     text-align: center;
     font-size: 1.5em;
+    float: left;
 }
+
 .section-4{
     padding: 75px;
     background-image: url(images/tire%20track.jpg);
