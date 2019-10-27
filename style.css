@@ -135,10 +135,7 @@ h3{
 }
 
 img.coat{
-    float: left;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 50px;
+    
     max-width: 100%;
     height: auto;
     box-shadow: 10px 10px 5px #ddd;
@@ -147,7 +144,7 @@ img.coat{
 
 #coat{
     float: left;
-    margin-top: 900px;
+    margin-top: 20px;
 }
 
 ol{
