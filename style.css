@@ -146,10 +146,8 @@ img.coat{
 }
 
 #coat{
-    margin-right: 50px;
+    float: left;
     margin-top: 900px;
-    border: 2px solid;
-  
 }
 
 ol{
