@@ -147,7 +147,9 @@ img.coat{
 
 span.coat{
     margin-right: 50px;
-     margin-top: 900px;
+    margin-top: 900px;
+    border: 2px solid;
+  
 }
 
 ol{
