@@ -104,6 +104,8 @@ hr{
     display: block;
     height: 2px;
     border-top: 1px solid #ccc;
+    width: 80%;
+    margin-left: 10%;
 }
 
 img.bird1{
