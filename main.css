@@ -104,7 +104,8 @@ hr{
     display: block;
     height: 2px;
     border-top: 1px solid #ccc;
-    width: 100%;
+    width: 50%;
+    margin-left: 20%;
    
 }
 
