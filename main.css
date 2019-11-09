@@ -103,8 +103,9 @@ h3{
 hr{
     display: block;
     width: 50%;
-    margin-left: 25%;
-   
+    margin-left: 25%; 
+    height: 2px;
+    border-top: 1px solid #ccc;
 }
 
 img.bird1{
